@@ -36,7 +36,7 @@ class Juego{
     }
 
     public void valorJuegos(){
-        System.out.println("El valor del juego :" + nombreJuego + "del género : "+ generoJuego +" es de " + precioJuego + "");
+        System.out.println("El valor del juego: " + nombreJuego + ", del género : "+ generoJuego +" es de " + precioJuego + "");
     }
 }
 
